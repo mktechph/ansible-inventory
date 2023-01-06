@@ -5,3 +5,7 @@ SJC1-TE-FTP02.sdi.trendnet.org
 [TMES]
 muc1-es-db04.sdi.trendnet.org
 muc1-es-s-app04.sdi.trendnet.org
+
+[DCS]
+dcs-b-cocportal01.sjc1
+dcs-cocportal01.sjc1
