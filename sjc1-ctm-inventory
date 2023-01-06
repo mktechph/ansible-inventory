@@ -1,2 +1,7 @@
+[CTM]
 SJC1-TE-FTP01.sdi.trendnet.org
 SJC1-TE-FTP02.sdi.trendnet.org
+
+[TMES]
+muc1-es-db04.sdi.trendnet.org
+muc1-es-s-app04.sdi.trendnet.org
